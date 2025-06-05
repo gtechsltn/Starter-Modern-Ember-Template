@@ -126,3 +126,8 @@ bower zeroclipboard#>=2.1.6                              install zeroclipboard#2
 # References
 + https://docs.google.com/document/d/1l7Yn2zOCbyYQvi0TkZsRlHwgM4qmF13KOwkHsI8Tojc
 + https://docs.google.com/document/d/1YYt-nB95RjTvODkP2TnNVyTMJIGvkB8PpYzktJLBC10
+
+## Backend
++ https://github.com/alpacahq/alpaca-trade-api-csharp
++ https://www.nuget.org/packages/Alpaca.Markets/
++ https://www.nuget.org/packages/Alpaca.Markets.Extensions/
