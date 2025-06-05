@@ -18,7 +18,7 @@
   + https://github.com/FortAwesome/Font-Awesome/releases/tag/v4.7.0
   + https://github.com/gtechsltn/font-awesome-4.7.0
 + Select2 v4.0.13
-+ Autonumeric v4.10.8
++ Autonumeric v1.9.41
 + Eonasdan Bootstrap Datetimepicker v4.17.49
 + Moment.js v2.29.1
   + **Number formatting**: 1234567 to "1,234,567".
@@ -42,7 +42,7 @@ npm i jquery@3.7.1
 npm i bootstrap@3.4.1
 npm i font-awesome@4.7.0
 npm i select2@4.0.13
-npm i autoNumeric@4.10.8
+npm i autonumeric@1.9.41
 npm i eonasdan-bootstrap-datetimepicker@4.17.49
 npm i moment@2.29.1
 npm i ua-parser-js@1.0.38
