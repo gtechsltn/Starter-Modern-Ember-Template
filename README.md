@@ -14,7 +14,7 @@
 + jQuery v3.7.1
 + Bootstrap v3.4.1
   + Bootstrap includes 260 glyphs from the Glyphicon Halflings set.
-  + [Version 3.4](https://getbootstrap.com/docs/3.4/)
+  + [**Version 3.4**](https://getbootstrap.com/docs/3.4/)
 + Font-awesome v4.7.0
 + Select2 v4.0.13
 + Autonumeric v4.10.8
