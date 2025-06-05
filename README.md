@@ -139,6 +139,7 @@ Ensure the paths in font-awesome.min.css correctly point to /assets/fonts/ (you 
 # References
 + https://docs.google.com/document/d/1l7Yn2zOCbyYQvi0TkZsRlHwgM4qmF13KOwkHsI8Tojc
 + https://docs.google.com/document/d/1YYt-nB95RjTvODkP2TnNVyTMJIGvkB8PpYzktJLBC10
++ https://docs.google.com/document/d/1F-xfiUVZ-ZO_0A0vceHrKnSdfFXEJBFicu6vTKeemSM
 
 ## Backend
 + https://github.com/alpacahq/alpaca-trade-api-csharp
