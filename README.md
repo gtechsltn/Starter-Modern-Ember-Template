@@ -29,6 +29,19 @@
 + UAParser.js v1.0.38
 
 ```
+bower i jquery@3.7.1
+bower i bootstrap@3.4.1
+bower i font-awesome@4.7.0
+bower i select2@4.0.13
+# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+bower i autoNumeric@4.10.8
+bower i eonasdan-bootstrap-datetimepicker@4.17.49
+bower i moment@2.29.1
+bower i ua-parser-js@1.0.38
+bower i humanize-duration@3.27.0
+```
+
+```
 <!-- Bootstrap 3 -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
