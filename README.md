@@ -16,6 +16,8 @@
   + Bootstrap includes 260 glyphs from the Glyphicon Halflings set.
   + [**Bootstrap Version 3.4**](https://getbootstrap.com/docs/3.4/)
 + Font-awesome v4.7.0
+  + https://github.com/FortAwesome/Font-Awesome/releases/tag/v4.7.0
+  + https://github.com/gtechsltn/font-awesome-4.7.0
 + Select2 v4.0.13
 + Autonumeric v4.10.8
 + Eonasdan Bootstrap Datetimepicker v4.17.49
