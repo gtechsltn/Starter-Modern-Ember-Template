@@ -145,3 +145,8 @@ Ensure the paths in font-awesome.min.css correctly point to /assets/fonts/ (you 
 + https://www.nuget.org/packages/Alpaca.Markets/
 + https://www.nuget.org/packages/Alpaca.Markets.Extensions/
 
+## Frontend
+
+### Bower
++ Bower is no longer exists as a function in newer versions of Ember CLI (4.x or 5.x+).
++ Bower is support in older Ember CLI versions (pre-2.x/3.x)
