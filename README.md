@@ -14,7 +14,7 @@
 + jQuery v3.7.1
 + Bootstrap v3.4.1
   + Bootstrap includes 260 glyphs from the Glyphicon Halflings set.
-  + [**Version 3.4**](https://getbootstrap.com/docs/3.4/)
+  + [**Bootstrap Version 3.4**](https://getbootstrap.com/docs/3.4/)
 + Font-awesome v4.7.0
 + Select2 v4.0.13
 + Autonumeric v4.10.8
@@ -27,7 +27,11 @@
   + **String truncation and capitalization**.
 + Humanize-Duration.js v3.27.0
 + UAParser.js v1.0.38
-+ [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/)
++ [**HTML5 Boilerplate**](https://github.com/h5bp/html5-boilerplate/)
++ [Alpaca Forms - Easy Forms for jQuery]()
+  + http://www.alpacajs.org/
+  + https://github.com/gitana/alpaca
++ [Form.io]()
 
 ```
 bower i jquery@3.7.1
@@ -55,6 +59,47 @@ bower i ua-parser-js@1.0.38
 bower i humanize-duration@3.27.0
 # DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
 # (Use `node --trace-deprecation ...` to show where the warning was created)
+bower i alpaca
+```
+
+## Alpaca Forms - Easily create forms for your web site using jQuery, Bootstrap and JSON Schema
+
+```
+bower i alpaca
+bower alpaca#^1.5.27                                     install alpaca#1.5.27
+bower jquery-hashchange#*                                install jquery-hashchange#1.3.2
+bower ace-builds#1.2.6                                   install ace-builds#1.2.6
+bower handlebars#4.0.5                                   install handlebars#4.0.5
+bower blueimp-file-upload#9.12.3                         install blueimp-file-upload#9.12.3
+bower respond#1.4.2                                      install respond#1.4.2
+bower jqueryui-timepicker-addon#1.5.0                    install jqueryui-timepicker-addon#1.5.0
+bower ckeditor#4.4.1                                     install ckeditor#4.4.1
+bower typeahead.js#0.10.5                                install typeahead.js#0.10.5
+bower datatables.net#1.10.10                             install datatables.net#1.10.10
+bower summernote#0.8.1                                   install summernote#0.8.1
+bower jquery-ui#1.11.2                                   install jquery-ui#1.11.2
+bower google-code-prettify#1.0.3                         install google-code-prettify#1.0.3
+bower blueimp-load-image#1.13.0                          install blueimp-load-image#1.13.0
+bower datatables.net-bs#1.10.10                          install datatables.net-bs#1.10.10
+bower jquery-price-format2#>= 2.0.0                      install jquery-price-format2#2.0.0
+bower blueimp-tmpl#2.5.4                                 install blueimp-tmpl#2.5.4
+bower spectrum#~1.7.1                                    install spectrum#1.7.1
+bower simplemde#^1.11.2                                  install simplemde#1.11.2
+bower tinymce#4.1.7                                      install tinymce#4.1.7
+bower blueimp-canvas-to-blob#2.1.1                       install blueimp-canvas-to-blob#2.1.1
+bower datatables.net-rowreorder#1.1.0                    install datatables.net-rowreorder#1.1.0
+bower handsontable#0.11.4                                install handsontable#0.11.4
+bower bootstrap-tokenfield#0.12.1                        install bootstrap-tokenfield#0.12.1
+bower mjolnic-bootstrap-colorpicker#2.3.0                install mjolnic-bootstrap-colorpicker#2.3.0
+bower js-beautify#1.5.4                                  install js-beautify#1.5.4
+bower jquery-mobile-bower#1.4.2                          install jquery-mobile-bower#1.4.2
+bower tinycolor#1.3.0                                    install tinycolor#1.3.0
+bower bootstrap-multiselect#0.9.9                        install bootstrap-multiselect#0.9.9
+bower jquery-maskedinput#1.3.1                           install jquery-maskedinput#1.3.1
+bower pick-a-color-m#1.2.3                               install pick-a-color-m#1.2.3
+bower datatables.net-plugins#1.10.10                     install datatables.net-plugins#1.10.10
+bower json3#3.3.2                                        install json3#3.3.2
+bower zeroclipboard#>=2.1.6                              install zeroclipboard#2.3.0
 ```
 
 ```
