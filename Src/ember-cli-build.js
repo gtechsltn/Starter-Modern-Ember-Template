@@ -14,7 +14,26 @@ module.exports = function (defaults) {
       },
     },
     // Add options here
+
   });
+
+  // Import Font-Awesome 4.7.0 CSS
+  app.import('public/assets/css/font-awesome.min.css');
+  // app.import('node_modules/font-awesome/css/font-awesome.min.css');
+  // ['eot', 'svg', 'ttf', 'woff', 'woff2'].forEach(ext => {
+  //   app.import(`node_modules/font-awesome/fonts/fontawesome-webfont.${ext}`, {
+  //     destDir: 'fonts'
+  //   });
+  // });
+
+  app.import('node_modules/jquery/dist/jquery.min.js');
+  app.import('node_modules/bootstrap/dist/js/bootstrap.min.js');
+  app.import('node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+  // Import from local vendor directory
+  // app.import('./vendor/jquery-3.7.1.min.js');
+  // app.import('./vendor/bootstrap.min.js');
+  // app.import('./vendor/bootstrap.min.css');
 
   return app.toTree();
 };

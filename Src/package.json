@@ -81,5 +81,18 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "@formio/bootstrap": "^3.1.0",
+    "alpaca": "^1.5.27",
+    "autonumeric": "^1.9.41",
+    "bootstrap": "^3.4.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.49",
+    "font-awesome": "^4.7.0",
+    "humanize-duration": "^3.27.0",
+    "jquery": "^3.7.1",
+    "moment": "^2.29.1",
+    "select2": "^4.0.13",
+    "ua-parser-js": "^1.0.38"
   }
 }
