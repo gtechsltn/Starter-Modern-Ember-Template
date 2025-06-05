@@ -123,6 +123,34 @@ bower zeroclipboard#>=2.1.6                              install zeroclipboard#2
 <script src="https://cdnjs.cloudflare.com/ajax/libs/humanize-duration/3.27.0/humanize-duration.min.js"></script>
 ```
 
+## Font Awesome 4.7.0
+
+## Install via bower (legacy) or manually copy assets
+
+If you must host Font Awesome yourself:
+
+### 1. Download Font Awesome 4.7.0
+
+Download from: https://cdnjs.com/libraries/font-awesome/4.7.0
+
+Extract the CSS and fonts folders.
+
+### 2. Copy into /public directory of your Ember app
+
+Place:
+
+font-awesome.min.css into public/assets/css/
+
+All font files (.woff, .ttf, etc.) into public/assets/fonts/
+
+### 3. Reference it in ember-cli-build.js
+
+```
+app.import('public/assets/css/font-awesome.min.css');
+```
+
+Ensure the paths in font-awesome.min.css correctly point to /assets/fonts/ (you may need to adjust relative paths).
+
 # References
 + https://docs.google.com/document/d/1l7Yn2zOCbyYQvi0TkZsRlHwgM4qmF13KOwkHsI8Tojc
 + https://docs.google.com/document/d/1YYt-nB95RjTvODkP2TnNVyTMJIGvkB8PpYzktJLBC10
@@ -131,3 +159,4 @@ bower zeroclipboard#>=2.1.6                              install zeroclipboard#2
 + https://github.com/alpacahq/alpaca-trade-api-csharp
 + https://www.nuget.org/packages/Alpaca.Markets/
 + https://www.nuget.org/packages/Alpaca.Markets.Extensions/
+
