@@ -151,9 +151,9 @@ Extract the CSS and fonts folders.
 
 Place:
 
-font-awesome.min.css into public/assets/css/
++ ```font-awesome.min.css``` into ```public/assets/css/```
 
-All font files (.woff, .ttf, etc.) into public/assets/fonts/
++ All font files (.woff, .ttf, etc.) into ```public/assets/fonts/```
 
 ### 3. Reference it in ember-cli-build.js
 
