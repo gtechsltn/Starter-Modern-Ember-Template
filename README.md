@@ -5,7 +5,6 @@
   + NPM v11.4.1
   + NVM v1.1.12
   + Yarn v1.22.22
-  + Bower v1.8.14
 + Ember v6.4
 + Ember-CLI v6.4
   + ember-cli: 6.4.0
@@ -39,43 +38,17 @@
   + https://github.com/formio/bootstrap
 
 ```
-bower i jquery@3.7.1
-
-bower i bootstrap@3.4.1
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i font-awesome@4.7.0
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i select2@4.0.13
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i autoNumeric@4.10.8
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i eonasdan-bootstrap-datetimepicker@4.17.49
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i moment@2.29.1
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i ua-parser-js@1.0.38
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i humanize-duration@3.27.0
-# DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
-# (Use `node --trace-deprecation ...` to show where the warning was created)
-
-bower i alpaca
-
-bower i formio/bootstrap3
+npm i jquery@3.7.1
+npm i bootstrap@3.4.1
+npm i font-awesome@4.7.0
+npm i select2@4.0.13
+npm i autoNumeric@4.10.8
+npm i eonasdan-bootstrap-datetimepicker@4.17.49
+npm i moment@2.29.1
+npm i ua-parser-js@1.0.38
+npm i humanize-duration@3.27.0
+npm i alpaca
+npm i formio/bootstrap3
 ```
 
 ## Alpaca Forms - Easily create forms for your web site using jQuery, Bootstrap and JSON Schema
