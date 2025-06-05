@@ -28,10 +28,13 @@
 + Humanize-Duration.js v3.27.0
 + UAParser.js v1.0.38
 + [**HTML5 Boilerplate**](https://github.com/h5bp/html5-boilerplate/)
-+ [Alpaca Forms - Easy Forms for jQuery]()
++ [Alpaca Forms - Easy Forms for jQuery](https://www.npmjs.com/package/alpaca)
   + http://www.alpacajs.org/
   + https://github.com/gitana/alpaca
-+ [Form.io]()
+  + https://www.npmjs.com/package/alpaca
++ [Form.io Bootstrap 3 Templates](https://github.com/formio/bootstrap)
+  + https://www.npmjs.com/package/@formio/bootstrap3
+  + https://github.com/formio/bootstrap
 
 ```
 bower i jquery@3.7.1
@@ -60,6 +63,7 @@ bower i humanize-duration@3.27.0
 # DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
 # (Use `node --trace-deprecation ...` to show where the warning was created)
 bower i alpaca
+bower i formio/bootstrap3
 ```
 
 ## Alpaca Forms - Easily create forms for your web site using jQuery, Bootstrap and JSON Schema
