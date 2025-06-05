@@ -48,7 +48,7 @@ npm i moment@2.29.1
 npm i ua-parser-js@1.0.38
 npm i humanize-duration@3.27.0
 npm i alpaca
-npm i formio/bootstrap3
+npm i @formio/bootstrap@3.1.0
 ```
 
 ## Alpaca Forms - Easily create forms for your web site using jQuery, Bootstrap and JSON Schema
