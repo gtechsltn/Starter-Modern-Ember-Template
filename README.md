@@ -13,16 +13,18 @@
   + os: win32 x64
 + jQuery v3.7.1
 + Bootstrap v3.4.1
+  + Bootstrap includes 260 glyphs from the Glyphicon Halflings set.
+  + [Version 3.4](https://getbootstrap.com/docs/3.4/)
 + Font-awesome v4.7.0
 + Select2 v4.0.13
 + Autonumeric v4.10.8
 + Eonasdan Bootstrap Datetimepicker v4.17.49
 + Moment.js v2.29.1
-  + Number formatting: 1234567 to "1,234,567".
-  + File size formatting: 2048 bytes to "2 KB".
-  + Ordinal numbers: 1 to "1st", 22 to "22nd".
-  + Pluralization: 1 duck vs. 2 ducks.
-  + String truncation and capitalization.
+  + **Number formatting**: 1234567 to "1,234,567".
+  + **File size formatting**: 2048 bytes to "2 KB".
+  + **Ordinal numbers**: 1 to "1st", 22 to "22nd".
+  + **Pluralization**: 1 duck vs. 2 ducks.
+  + **String truncation and capitalization**.
 + Humanize-Duration.js v3.27.0
 + UAParser.js v1.0.38
 
